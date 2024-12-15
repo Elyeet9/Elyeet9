@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my thesis for a Computer Assited Detection of lung cancer using Convolutional Neural Networks.
-- 🌱 I’m currently learning Concurrent and Distributed Programming/Topics on Game Development.
+- 🔭 I’m currently working on software development and data science.
+- 🌱 I’m currently on the final steps to earn my Computer Science degree
 - 👯 I’m looking to collaborate on more AI projects.
-- 💬 Ask me about anything AI or game related! 
+- 💬 Ask me about anything AI or game related!
 - 📫 How to reach me: I'm most active on reddit, going by the [u/juanbabuchas](https://www.reddit.com/user/juanbabuchas/) profile.
 - ⚡ Fun fact: I publish D&D5e homebrew on the side for FREE! Feel free to look at it on my reddit or my [kofi](https://ko-fi.com/elyeet).
 <!--
