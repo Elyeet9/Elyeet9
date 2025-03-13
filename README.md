@@ -1,8 +1,13 @@
-# 🤖 Elyeet here!
-- 🔭 I’m currently working on web development and data analysis for Entel Perú S.A.
-- 🏃‍♂️ I’m currently on the final steps to earn my Computer Science degree
-- 🤡 Currently working on a silly AI for a future VTuber companion.
-- 🤝 I’m looking to collaborate on more AI projects.
-- 💬 Ask me about anything AI or game related!
-- 📫 How to reach me: I'm most active on [Reddit](https://www.reddit.com/user/juanbabuchas/).
-- ⚡ Fun fact: I publish D&D5e homebrew on the side for FREE! Feel free to look at it on my reddit or my [kofi](https://ko-fi.com/elyeet).
+# 🗣️ Hi!
+I'm Elyeet, a CS student working on web development and data analysis.
+
+I'm currently developing some discord bots and playing with some AI tools to create my own one day.
+
+## 📫 Contact Info
+Feel free to hit me up if you want to collaborate or have some questions.
+- Reddit: [juanbabuchas](https://www.reddit.com/user/juanbabuchas/) (i also publish some D&D homebrew from time to time)
+- Discord: `elyeet`
+
+## Current Projects
+- DnD Utils: A bot with util functions for D&D, including stat rolling with a minimum total roll and some snarky comments.
+- Neuro Mari: An AI project to make a silly companion for a future hispanic VTuber.
