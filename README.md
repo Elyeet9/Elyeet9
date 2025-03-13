@@ -1,21 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on software development and data science.
-- 🌱 I’m currently on the final steps to earn my Computer Science degree
-- 👯 I’m looking to collaborate on more AI projects.
+# 🤖 Elyeet here!
+- 🔭 I’m currently working on web development and data analysis for Entel Perú S.A.
+- 🏃‍♂️ I’m currently on the final steps to earn my Computer Science degree
+- 🤡 Currently working on a silly AI for a future VTuber companion.
+- 🤝 I’m looking to collaborate on more AI projects.
 - 💬 Ask me about anything AI or game related!
-- 📫 How to reach me: I'm most active on reddit, going by the [u/juanbabuchas](https://www.reddit.com/user/juanbabuchas/) profile.
+- 📫 How to reach me: I'm most active on [Reddit](https://www.reddit.com/user/juanbabuchas/).
 - ⚡ Fun fact: I publish D&D5e homebrew on the side for FREE! Feel free to look at it on my reddit or my [kofi](https://ko-fi.com/elyeet).
-<!--
-**Elyeet9/Elyeet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
