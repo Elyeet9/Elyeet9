@@ -1,13 +1,12 @@
 # 🗣️ Hi!
-I'm Elyeet, a CS student working on web development and data analysis.
+I'm Elyeet, a CS graduate working on web development and data analysis.
 
-I'm currently developing some discord bots and playing with some AI tools to create my own one day.
+I'm currently developing discord bots, AI, webpages and game projects.
 
 Check my [Portfolio](https://elyeet-portfolio.vercel.app/)!
 
 ## 📫 Contact Info
 Feel free to hit me up if you want to collaborate or have some questions.
-- Reddit: [juanbabuchas](https://www.reddit.com/user/juanbabuchas/) (i also publish some D&D homebrew from time to time)
 - Discord: `elyeet`
 
 ## ⛏️ Current Projects
