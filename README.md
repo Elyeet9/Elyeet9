@@ -3,7 +3,7 @@ I'm Elyeet, a CS graduate working on web development and data analysis.
 
 I'm currently developing discord bots, AI, webpages and game projects.
 
-Check my [Portfolio](https://elyeet-portfolio.vercel.app/)!
+Check my [Portfolio](https://leonardog.vercel.app/)!
 
 ## 📫 Contact Info
 Feel free to hit me up if you want to collaborate or have some questions.
